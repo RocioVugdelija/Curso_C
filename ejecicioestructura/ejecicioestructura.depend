@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1537764840 source:c:\users\alan_\desktop\c2018\ejecicioestructura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"persona.h"
+
+1537509638 c:\users\alan_\desktop\c2018\ejecicioestructura\persona.h
+
+1537509638 c:\users\alan_\desktop\c2018\ejecicioestructura\get.h
+
+1537764797 source:c:\users\alan_\desktop\c2018\ejecicioestructura\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"persona.h"
+	"get.h"
+
+1537510544 source:c:\users\alan_\desktop\c2018\ejecicioestructura\get.c
+	<stdio.h>
+	<stdlib.h>
+	"get.h"
+
+1539021244 source:c:\users\alan_\desktop\curso c\ejecicioestructura\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"persona.h"
+	"get.h"
+
+1537509638 c:\users\alan_\desktop\curso c\ejecicioestructura\persona.h
+
+1539021244 c:\users\alan_\desktop\curso c\ejecicioestructura\get.h
+

@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1538892232 source:c:\users\alan_\desktop\programacion\c2018-master\c 2018\abm-p\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"negocio.h"
+	"validaciones.h"
+
+1539019567 c:\users\alan_\desktop\programacion\c2018-master\c 2018\abm-p\negocio.h
+
+1538714458 c:\users\alan_\desktop\programacion\c2018-master\c 2018\abm-p\validaciones.h
+
+1538890556 source:c:\users\alan_\desktop\programacion\c2018-master\c 2018\abm-p\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"negocio.h"
+	"validaciones.h"
+
+1538892232 source:c:\users\alan_\desktop\curso c\abm-p\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"negocio.h"
+	"validaciones.h"
+
+1539019567 c:\users\alan_\desktop\curso c\abm-p\negocio.h
+
+1539020491 c:\users\alan_\desktop\curso c\abm-p\validaciones.h
+
+1539020491 source:c:\users\alan_\desktop\curso c\abm-p\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"negocio.h"
+	"validaciones.h"
+
